@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nik Henry</h1>
 <h3 align="center">Landscape Designer, Programmer, Linux User</h3>
+
 - 🔭 I’m currently working on **homelab.**
 - 🌱 I’m currently learning **bash scripting.**
 - 👯 I’m looking to collaborate on **system admin related projects.**
@@ -8,6 +9,7 @@
 - 📄 Know about my experiences [resume link coming soon...](resume link coming soon...)
 - 💬 Ask me about **anything.**
 - 📫 How to reach me **gmail.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
