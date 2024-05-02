@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nik Henry</h1>
-<h3 align="center">Landscape Designer, Programmer, Linux User</h3>
+<h1 align="center">Hi 👋, I'm Nik</h1>
+<h3 align="center">Designer, Programmer</h3>
 
 - 🔭 I’m currently working on **homelab.**
 - 🌱 I’m currently learning **bash scripting.**
