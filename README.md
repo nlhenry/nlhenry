@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **homelab.**
 
-- 🌱 I’m currently learning **Docker.**
+- 🌱 I’m currently learning **bash scripting.**
 
 - 👯 I’m looking to collaborate on **system admin related projects.**
 
