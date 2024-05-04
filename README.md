@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nik</h1>
+<h1 align= "Left">Heading</h1>
 <h3 align="center">Designer, Programmer</h3>
 
 - 🔭 I’m currently working on **homelab.**
